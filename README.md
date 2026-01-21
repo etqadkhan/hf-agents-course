@@ -161,7 +161,7 @@ This project is part of an AI agents course and is intended for educational purp
 
 ## 🤝 Contributing
 
-This is a course project. For questions or issues, please refer to the course materials or contact the instructor.
+This is a course project. For questions or issues, please refer to the course materials here https://huggingface.co/agents-course
 
 ## 📚 Dependencies
 
